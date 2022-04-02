@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Narayani
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://narayanipillai.github.io/"
+baseurl: "/portfolio"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Narayani
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://narayanipillai.github.io/portfolio/gallery/"  
+  - JOURNAL: "https://narayanipillai.github.io/portfolio/journal/"
+  - ABOUT: "https://narayanipillai.github.io/portfolio/about/"
 
 # All translation keys
 translations:
